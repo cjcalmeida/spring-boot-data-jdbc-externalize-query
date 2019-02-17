@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.cjcalmeida.spring.data.jdbc.externalize.query.DemoApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.873 s - in com.cjcalmeida.spring.data.jdbc.externalize.query.DemoApplicationTests

@@ -1,5 +1,0 @@
-CREATE TABLE person(
-    id INT(5) NOT NULL PRIMARY KEY AUTO_INCREMENT,
-    firstname VARCHAR(15) NOT NULL,
-    lastname VARCHAR(30) NOT NULL
-);

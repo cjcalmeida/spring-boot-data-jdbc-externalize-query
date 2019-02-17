@@ -13,6 +13,9 @@
 # Idea files
 .idea
 
+# Maven target dir
+target
+
 # Package Files #
 *.jar
 *.war
