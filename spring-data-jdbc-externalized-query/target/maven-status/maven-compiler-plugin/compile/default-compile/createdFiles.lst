@@ -1,0 +1,4 @@
+com\cjcalmeida\spring\data\jdbc\externalize\query\JdbcExternalizedQueryMethod.class
+com\cjcalmeida\spring\data\jdbc\externalize\query\JdbcExternalizedQueryRepositoryFactory.class
+org\springframework\data\jdbc\repository\support\JdbcExternalizedRepositoryFactoryBean.class
+org\springframework\data\jdbc\repository\support\JdbcExternalidedQueryLookupStrategy.class
