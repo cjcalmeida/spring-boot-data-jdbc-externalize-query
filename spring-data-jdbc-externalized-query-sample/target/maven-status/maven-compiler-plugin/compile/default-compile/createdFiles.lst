@@ -1,0 +1,4 @@
+com\cjcalmeida\spring\data\jdbc\externalize\query\sample\SampleApplication.class
+com\cjcalmeida\spring\data\jdbc\externalize\query\sample\PersonEntity.class
+com\cjcalmeida\spring\data\jdbc\externalize\query\sample\PersonRepository.class
+com\cjcalmeida\spring\data\jdbc\externalize\query\sample\PersonMapper.class
