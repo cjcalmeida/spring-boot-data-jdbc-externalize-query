@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="Person.findByFirstname">
+        <![CDATA[
+            SELECT * FROM person WHERE firstname = :firstname
+        ]]>
+    </entry>
+
+    <entry key="Person.findAll">
+        <![CDATA[
+            SELECT 0 as id, firstname, lastname FROM person
+        ]]>
+    </entry>
+
+    <entry key="Person.updateLastname">
+        <![CDATA[
+            UPDATE person SET lastname = :lastname WHERE id = :id
+        ]]>
+    </entry>
+</properties>
